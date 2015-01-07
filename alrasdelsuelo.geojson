@@ -13,10 +13,10 @@
       },
       "properties": {
         "name": "Zona preferida para pasar el tiempo libre_Parque de la Ciudadela",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Parque de la Ciudadela, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como  la zona favorita para pasar el tiempo libre.",
-        "gx_media_links": "https://youtube.com/watch?v=Wc7LWPLS0js"
+        "description": "Zona preferida para pasar el tiempo libre_Parque de la Ciudadela",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/Wc7LWPLS0js\" frameborder=\"0\" allowfullscreen></iframe>",
+        "photo": ""
       }
     },
     {
@@ -31,10 +31,9 @@
       },
       "properties": {
         "name": "Zona preferida para pasar el tiempo libre_Parc del Poblenou",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Parc del Poblenou, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona preferida para pasar el tiempo libre.",
-        "gx_media_links": "https://lh4.googleusercontent.com/8nRa0wvMP3uR4j99lHMYmz0vl3HfxyDbVabox0nlLps=w853-h567-no"
+        "photo": "https://lh4.googleusercontent.com/8nRa0wvMP3uR4j99lHMYmz0vl3HfxyDbVabox0nlLps=w853-h567-no"
       }
     },
     {
@@ -49,10 +48,9 @@
       },
       "properties": {
         "name": "Zona de encierro_Barrio Gótico\n",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Barrio Gótico, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona que genera mayor sensación de encierro.",
-        "gx_media_links": "https://lh6.googleusercontent.com/-DOmkdm8iFbw/VISV8vwpB-I/AAAAAAAAC7U/aGzzHxY_AO4/w377-h567-no/DSC_0110.jpg"
+        "photo": "https://lh6.googleusercontent.com/-DOmkdm8iFbw/VISV8vwpB-I/AAAAAAAAC7U/aGzzHxY_AO4/w377-h567-no/DSC_0110.jpg"
       }
     },
     {
@@ -67,10 +65,9 @@
       },
       "properties": {
         "name": "Zona más colorida de la ciudad_Jardín Botánico\n",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Jardín Botánico, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona más colorida de la ciudad.",
-        "gx_media_links": "https://lh6.googleusercontent.com/-53foj6NFLUE/VISXhbd-f0I/AAAAAAAAC7U/H5j7aQsiYPM/w692-h567-no/img368.jpg"
+        "photo": "https://lh6.googleusercontent.com/-53foj6NFLUE/VISXhbd-f0I/AAAAAAAAC7U/H5j7aQsiYPM/w692-h567-no/img368.jpg"
       }
     },
     {
@@ -85,10 +82,9 @@
       },
       "properties": {
         "name": "Zona más irritante de la ciudad_Av. del Litoral\n",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Av. del Litoral, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona más irritante de la ciudad.",
-        "gx_media_links": "https://lh4.googleusercontent.com/0VwlLOklyM3ZfCTbeZqefuf5-qY_fVqHSJWnPzK6pOQ=w854-h567-no"
+        "photo": "https://lh4.googleusercontent.com/0VwlLOklyM3ZfCTbeZqefuf5-qY_fVqHSJWnPzK6pOQ=w854-h567-no"
       }
     },
     {
@@ -103,10 +99,9 @@
       },
       "properties": {
         "name": "Zona favorita de la ciudad_La playa",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "La playa, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona favorita de la ciudad.",
-        "gx_media_links": "https://lh5.googleusercontent.com/-JHKmq61qzVQ/VISViI7lguI/AAAAAAAAC7U/tdVGvLhFGC0/w868-h567-no/DSC_0077.jpg"
+        "photo": "https://lh5.googleusercontent.com/-JHKmq61qzVQ/VISViI7lguI/AAAAAAAAC7U/tdVGvLhFGC0/w868-h567-no/DSC_0077.jpg"
       }
     },
     {
@@ -121,10 +116,9 @@
       },
       "properties": {
         "name": "Zona preferida para pasar el tiempo libre_Jardins de Josep Trueta",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Jardins de Josep Trueta, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona preferida para pasar el tiempo libre.",
-        "gx_media_links": "https://lh4.googleusercontent.com/-Nn4DO9nUIeI/VISWYRb37_I/AAAAAAAAC7U/S5dFri14PgA/w710-h567-no/Dining_Out_2400dpi071.jpg"
+        "photo": "https://lh4.googleusercontent.com/-Nn4DO9nUIeI/VISWYRb37_I/AAAAAAAAC7U/S5dFri14PgA/w710-h567-no/Dining_Out_2400dpi071.jpg"
       }
     },
     {
@@ -139,10 +133,9 @@
       },
       "properties": {
         "name": "Zona preferida para pasar el tiempo libre_Jardins de Josep Trueta",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Jardins de Josep Trueta, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona preferida para pasar el tiempo libre.",
-        "gx_media_links": "https://lh5.googleusercontent.com/ws2nlZIx5zGRFnDrp9OqvprmmCgs98fa8hzXpf-hYUw=w702-h567-no"
+        "photo": "https://lh5.googleusercontent.com/ws2nlZIx5zGRFnDrp9OqvprmmCgs98fa8hzXpf-hYUw=w702-h567-no"
       }
     },
     {
@@ -157,10 +150,9 @@
       },
       "properties": {
         "name": "Zona favorita de la ciudad_Tibidabo\n",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Tibidabo, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona favorita de la ciudad.",
-        "gx_media_links": "https://lh6.googleusercontent.com/iVwy1TJnI2bgLpuYlX5nogvEZgCpbx_UoMIuiJlCV70=w700-h567-no"
+        "photo": "https://lh6.googleusercontent.com/iVwy1TJnI2bgLpuYlX5nogvEZgCpbx_UoMIuiJlCV70=w700-h567-no"
       }
     },
     {
@@ -175,10 +167,9 @@
       },
       "properties": {
         "name": "Zona más aromática de la ciudad_Tibidabo\n",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Tibidabo, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona más aromática de la ciudad.",
-        "gx_media_links": "https://lh6.googleusercontent.com/p8xWdOqoqWYASL5I8hR9lPfynnvQYi-x83r4B70xtHc=w702-h567-no"
+        "photo": "https://lh6.googleusercontent.com/p8xWdOqoqWYASL5I8hR9lPfynnvQYi-x83r4B70xtHc=w702-h567-no"
       }
     },
     {
@@ -193,10 +184,9 @@
       },
       "properties": {
         "name": "Zona que recuerda historia de amor_Grácia",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Grácia, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona que le recuerda una historia de amor.",
-        "gx_media_links": "https://lh4.googleusercontent.com/-thpuRPG__rE/VISWrwuVmVI/AAAAAAAAC7U/jD45uR8DYqo/w712-h567-no/Dining_Out_2400dpi075.jpg"
+        "photo": "https://lh4.googleusercontent.com/-thpuRPG__rE/VISWrwuVmVI/AAAAAAAAC7U/jD45uR8DYqo/w712-h567-no/Dining_Out_2400dpi075.jpg"
       }
     },
     {
@@ -211,10 +201,10 @@
       },
       "properties": {
         "name": "Zona preferida para pasar el tiempo libre_Parque de Poblenou",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Paque de Poblenou, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como  la zona favorita para pasar el tiempo libre.",
-        "gx_media_links": "http://youtube.com/watch?v=bBXE6UXKoc0"
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/bBXE6UXKoc0\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -229,10 +219,10 @@
       },
       "properties": {
         "name": "Zona preferida para pasar el tiempo libre_Parque de Poblenou    ",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Paque de Poblenou, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como  la zona favorita para pasar el tiempo libre.",
-        "gx_media_links": "http://youtube.com/watch?v=RdE_p13FT0w"
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/RdE_p13FT0w\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -247,10 +237,10 @@
       },
       "properties": {
         "name": "Zona más irritante de la ciudad_Plaza Catalunya",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Plaza Catalunya, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como  la zona más irritante de la ciudad.",
-        "gx_media_links": "http://youtube.com/watch?v=2gvr4Ug4hVU"
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/2gvr4Ug4hVU\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -265,10 +255,10 @@
       },
       "properties": {
         "name": "Zona más encerrada de la ciudad_Metro L3, estación Fontana",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Metro L3, estación Fontana, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como el sitio que causa mayor sensación de encierro.",
-        "gx_media_links": "http://youtube.com/watch?v=sAkhknzbZXk"
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/sAkhknzbZXk\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -283,10 +273,10 @@
       },
       "properties": {
         "name": "Zona que recuerda una historia de amor_La playa",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Playa, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como  la zona que le recuerda una historia de amor.",
-        "gx_media_links": "http://youtube.com/watch?v=cCSSDL2xJq4"
+        "description": "Playa, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como  la zona que le recuerda una historia de amor.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/cCSSDL2xJq4\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -301,10 +291,10 @@
       },
       "properties": {
         "name": "Zona preferida para pasar el tiempo libre_Parque de la Ciudadela",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Parque de la Ciudadela, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona favorita para pasar el tiempo libre.",
-        "gx_media_links": "http://youtube.com/watch?v=YxEcnmZ2jf0"
+        "description": "Parque de la Ciudadela, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona favorita para pasar el tiempo libre.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/YxEcnmZ2jf0\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -319,10 +309,10 @@
       },
       "properties": {
         "name": "Zona más aromática de la ciudad_Tibidabo",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Tibidabo, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona más aromática de la ciudad.",
-        "gx_media_links": "http://youtube.com/watch?v=c8zFO510h4k"
+        "description": "Tibidabo, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona más aromática de la ciudad.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/c8zFO510h4k\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -337,10 +327,10 @@
       },
       "properties": {
         "name": "Zona favorita de la ciudad_Tibidabo",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Tibidabo, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona favorita de la ciudad.",
-        "gx_media_links": "http://youtube.com/watch?v=dvjCxYL6Eyo"
+        "description": "Tibidabo, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona favorita de la ciudad.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/dvjCxYL6Eyo\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -355,10 +345,10 @@
       },
       "properties": {
         "name": "Zona de discriminación_Avinguda de les Drassanes",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Avinguda de les Drassanes, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona en que se siente discriminado.",
-        "gx_media_links": "http://youtube.com/watch?v=hRkfAFIM12c"
+        "description": "Avinguda de les Drassanes, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona en que se siente discriminado.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/hRkfAFIM12c\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -373,10 +363,10 @@
       },
       "properties": {
         "name": "Zona preferida para pasar el tiempo libre_Jardins de Gandhi",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Jardins de Gandhi, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona favorita para pasar el tiempo libre.",
-        "gx_media_links": "http://youtube.com/watch?v=QMFtrgiNnh0"
+        "description": "Jardins de Gandhi, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona favorita para pasar el tiempo libre.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/QMFtrgiNnh0\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -391,10 +381,10 @@
       },
       "properties": {
         "name": "Zona más aromática_Jardín Botánico",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Jardín Botánico, Barcelona, España (mayo 2014). Lugar definido por un participante anónimo como la zona más aromática de la ciudad.",
-        "gx_media_links": "http://youtube.com/watch?v=lOrheFBuHWs"
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/lOrheFBuHWs\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -409,10 +399,10 @@
       },
       "properties": {
         "name": "Zona más colorida de la ciudad_Park Güell",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Park Güell, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona más colorida de la ciudad.",
-        "gx_media_links": "http://youtube.com/watch?v=OURulpFHIGs"
+        "description": "Park Güell, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona más colorida de la ciudad.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/OURulpFHIGs\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -427,10 +417,10 @@
       },
       "properties": {
         "name": "Zona preferida para el tiempo libre_La playa",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Playa, Barcelona, España (mayo 2014). Zona definida por un participante anónimo como el sitio preferido para pasar el tiempo libre.",
-        "gx_media_links": "https://lh4.googleusercontent.com/-84k9qhi4Q28/VISW1d6WPaI/AAAAAAAAC7U/CPNWOhTG7SQ/w463-h567-no/Dining_Out_2400dpi077.jpg"
+        "photo": "https://lh4.googleusercontent.com/-84k9qhi4Q28/VISW1d6WPaI/AAAAAAAAC7U/CPNWOhTG7SQ/w463-h567-no/Dining_Out_2400dpi077.jpg",
+        "video": ""
       }
     },
     {
@@ -445,10 +435,9 @@
       },
       "properties": {
         "name": "Zona que recuerda una historia de amor_Zoológico",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Zoológico, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como el sitio que le recuerda una historia de amor.",
-        "gx_media_links": "https://lh3.googleusercontent.com/-W2TvxsyTgUM/VISW7FZVwjI/AAAAAAAAC7U/Egl2rTl83rM/w697-h567-no/Dining_Out_2400dpi080.jpg"
+        "photo": "https://lh3.googleusercontent.com/-W2TvxsyTgUM/VISW7FZVwjI/AAAAAAAAC7U/Egl2rTl83rM/w697-h567-no/Dining_Out_2400dpi080.jpg"
       }
     },
     {
@@ -463,10 +452,9 @@
       },
       "properties": {
         "name": "Zona más aromática de la ciudad_Tibidabo",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Tibidabo, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como  la zona más aromática de la ciudad.",
-        "gx_media_links": "https://lh4.googleusercontent.com/5oMe2NXC9Cz-Gncw4iuJK_8JcN-mpC40eIClxhDYY9M=w697-h567-no"
+        "photo": "https://lh4.googleusercontent.com/5oMe2NXC9Cz-Gncw4iuJK_8JcN-mpC40eIClxhDYY9M=w697-h567-no"
       }
     },
     {
@@ -481,10 +469,9 @@
       },
       "properties": {
         "name": "Zona favorita de la ciudad_Tibidabo",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Tibidabo, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona favorita de la ciudad.",
-        "gx_media_links": "https://lh4.googleusercontent.com/-tRBhJgC69Fg/VISXFJLK22I/AAAAAAAAC7U/GQSWtdALvq8/w691-h567-no/Dining_Out_2400dpi081.jpg"
+        "photo": "https://lh4.googleusercontent.com/-tRBhJgC69Fg/VISXFJLK22I/AAAAAAAAC7U/GQSWtdALvq8/w691-h567-no/Dining_Out_2400dpi081.jpg"
       }
     },
     {
@@ -499,10 +486,9 @@
       },
       "properties": {
         "name": "Zona preferida para el tiempo libre_Tibidabo",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Tibidabo, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona preferida para pasar el tiempo libre.",
-        "gx_media_links": "https://lh5.googleusercontent.com/-nTdnhV5IvQc/VISXWDwMkGI/AAAAAAAAC7U/-1ibJ_TpKqQ/w692-h567-no/Dining_Out_2400dpi090.jpg"
+        "photo": "https://lh5.googleusercontent.com/-nTdnhV5IvQc/VISXWDwMkGI/AAAAAAAAC7U/-1ibJ_TpKqQ/w692-h567-no/Dining_Out_2400dpi090.jpg"
       }
     },
     {
@@ -517,10 +503,9 @@
       },
       "properties": {
         "name": "Zona de discriminación_Avinguda de les Drassanes",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Avinguda de les Drassanes, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona en que se siente discriminado.",
-        "gx_media_links": "https://lh5.googleusercontent.com/-uWhdA3dLr-k/VISXKgGwicI/AAAAAAAAC7U/d5GNi-tDmTY/w700-h567-no/Dining_Out_2400dpi088.jpg"
+        "photo": "https://lh5.googleusercontent.com/-uWhdA3dLr-k/VISXKgGwicI/AAAAAAAAC7U/d5GNi-tDmTY/w700-h567-no/Dining_Out_2400dpi088.jpg"
       }
     },
     {
@@ -535,10 +520,9 @@
       },
       "properties": {
         "name": "Zona más aromática de la ciudad_Tibidabo",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Tibidabo, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona más aromática de la ciudad.",
-        "gx_media_links": "https://lh5.googleusercontent.com/_yKpkEVIqnQocczwiEieAvYEKW06a5jJ4miWlLurOZY=w701-h567-no"
+        "photo": "https://lh5.googleusercontent.com/_yKpkEVIqnQocczwiEieAvYEKW06a5jJ4miWlLurOZY=w701-h567-no"
       }
     },
     {
@@ -553,10 +537,9 @@
       },
       "properties": {
         "name": "Zona más colorida de la ciudad_Tibidabo",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Tibidabo, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona más colorida de la ciudad.",
-        "gx_media_links": "https://lh6.googleusercontent.com/-NubL1JqU0oE/U35Fcm7s9bI/AAAAAAAACcI/hJg64293eUc/w423-h636-no/8.jpg"
+        "photo": "https://lh6.googleusercontent.com/-NubL1JqU0oE/U35Fcm7s9bI/AAAAAAAACcI/hJg64293eUc/w423-h636-no/8.jpg"
       }
     },
     {
@@ -571,10 +554,9 @@
       },
       "properties": {
         "name": "Zona favorita de la ciudad_El Born",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "El Born, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona favorita de la ciudad.",
-        "gx_media_links": "https://lh4.googleusercontent.com/-PbImuao7bVg/VISVXvq27lI/AAAAAAAAC7U/7luDZY31nYg/w853-h567-no/DSC_0045.jpg"
+        "photo": "https://lh4.googleusercontent.com/-PbImuao7bVg/VISVXvq27lI/AAAAAAAAC7U/7luDZY31nYg/w853-h567-no/DSC_0045.jpg"
       }
     },
     {
@@ -589,10 +571,9 @@
       },
       "properties": {
         "name": "Zona de discriminación_Passeig de Gracia",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Passeig de Gracia, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona donde se siente discriminado.",
-        "gx_media_links": "https://lh4.googleusercontent.com/-UVDbuVWNvz8/U35FNojE31I/AAAAAAAACY4/ZGwan1_YGK4/w422-h635-no/10.jpg"
+        "photo": "https://lh4.googleusercontent.com/-UVDbuVWNvz8/U35FNojE31I/AAAAAAAACY4/ZGwan1_YGK4/w422-h635-no/10.jpg"
       }
     },
     {
@@ -607,10 +588,9 @@
       },
       "properties": {
         "name": "Zona que recuerda una historia de amor_Grácia",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Grácia, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona que le recuerda una historia de amor.",
-        "gx_media_links": "https://lh4.googleusercontent.com/-i5GqbHAkHSU/U35FNkcqzHI/AAAAAAAACYw/bQuR_hoPYCw/w957-h636-no/11.jpg"
+        "photo": "https://lh4.googleusercontent.com/-i5GqbHAkHSU/U35FNkcqzHI/AAAAAAAACYw/bQuR_hoPYCw/w957-h636-no/11.jpg"
       }
     },
     {
@@ -625,10 +605,9 @@
       },
       "properties": {
         "name": "Zona que recuerda una historia de amor_La playa",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "La playa, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona que le recuerda una historia de amor.",
-        "gx_media_links": "https://lh6.googleusercontent.com/-w9vj5YFyPtg/U35FPD5mxtI/AAAAAAAACY8/g3ZCnxF1848/w957-h636-no/12.jpg"
+        "photo": "https://lh6.googleusercontent.com/-w9vj5YFyPtg/U35FPD5mxtI/AAAAAAAACY8/g3ZCnxF1848/w957-h636-no/12.jpg"
       }
     },
     {
@@ -643,10 +622,9 @@
       },
       "properties": {
         "name": "Zona más colorida de la ciudad_Sagrada Familia",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Sagrada Familia, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona más colorida de la ciudad.",
-        "gx_media_links": "https://lh4.googleusercontent.com/-o6b31V-p8Og/U35FPN1yFmI/AAAAAAAACZg/sbIjMCteu3A/w423-h636-no/13.jpg"
+        "photo": "https://lh4.googleusercontent.com/-o6b31V-p8Og/U35FPN1yFmI/AAAAAAAACZg/sbIjMCteu3A/w423-h636-no/13.jpg"
       }
     },
     {
@@ -661,10 +639,9 @@
       },
       "properties": {
         "name": "Zona favorita de la ciudad_Grácia",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Grácia, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona favorita de la ciudad.",
-        "gx_media_links": "https://lh5.googleusercontent.com/-7B3lfjzMDt8/U35FPU84_vI/AAAAAAAACZM/ws8UsNStE1g/w957-h636-no/14.jpg"
+        "photo": "https://lh5.googleusercontent.com/-7B3lfjzMDt8/U35FPU84_vI/AAAAAAAACZM/ws8UsNStE1g/w957-h636-no/14.jpg"
       }
     },
     {
@@ -679,10 +656,9 @@
       },
       "properties": {
         "name": "Zona de discriminación_Park Güell",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Park Güell, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona donde se siente discriminado.",
-        "gx_media_links": "https://lh4.googleusercontent.com/-GZ1F_x7FzcU/U35FQOHDUxI/AAAAAAAACZk/HMPgWhLktBM/w956-h636-no/15.jpg"
+        "photo": "https://lh4.googleusercontent.com/-GZ1F_x7FzcU/U35FQOHDUxI/AAAAAAAACZk/HMPgWhLktBM/w956-h636-no/15.jpg"
       }
     },
     {
@@ -697,10 +673,9 @@
       },
       "properties": {
         "name": "Zona preferida para el tiempo libre_Barrio Gótico",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Barrio Gótico, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona preferida para pasar el tiempo libre.",
-        "gx_media_links": "https://lh6.googleusercontent.com/-9vPwo6votss/VISVz2VfvXI/AAAAAAAAC7U/tDWtQdjRAd8/w853-h567-no/DSC_0109.jpg"
+        "photo": "https://lh6.googleusercontent.com/-9vPwo6votss/VISVz2VfvXI/AAAAAAAAC7U/tDWtQdjRAd8/w853-h567-no/DSC_0109.jpg"
       }
     },
     {
@@ -715,10 +690,9 @@
       },
       "properties": {
         "name": "Zona preferida para el tiempo libre_Parc de Diagonal-Mar",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Parc de Diagonal-Mar, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona preferida para pasar el tiempo libre.",
-        "gx_media_links": "https://lh5.googleusercontent.com/-YKG3Fw54zs4/VISXZV7P2mI/AAAAAAAAC7U/p49nbwAwkkw/w687-h567-no/img365.jpg"
+        "photo": "https://lh5.googleusercontent.com/-YKG3Fw54zs4/VISXZV7P2mI/AAAAAAAAC7U/p49nbwAwkkw/w687-h567-no/img365.jpg"
       }
     },
     {
@@ -733,10 +707,9 @@
       },
       "properties": {
         "name": "Zona más aromática de la ciudad_Jardín Botánico",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Jardín Botánico, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona más aromática de la ciudad.",
-        "gx_media_links": "https://lh5.googleusercontent.com/CHyUWCC6w0m2h-gQdhYM501OkorZffSGSdqxRtK_Pcg=w688-h567-no"
+        "photo": "https://lh5.googleusercontent.com/CHyUWCC6w0m2h-gQdhYM501OkorZffSGSdqxRtK_Pcg=w688-h567-no"
       }
     },
     {
@@ -751,10 +724,9 @@
       },
       "properties": {
         "name": "Zona de mayores restricciones_La Salut",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "La Salut, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona donde siente mayores restricciones.",
-        "gx_media_links": "https://lh6.googleusercontent.com/-dPYJyCUaUyk/VISXn2wY68I/AAAAAAAAC7U/ORfyQDJKG2o/w696-h567-no/img372.jpg"
+        "photo": "https://lh6.googleusercontent.com/-dPYJyCUaUyk/VISXn2wY68I/AAAAAAAAC7U/ORfyQDJKG2o/w696-h567-no/img372.jpg"
       }
     },
     {
@@ -769,10 +741,9 @@
       },
       "properties": {
         "name": "Zona más colorida de la ciudad_Park Güell",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Park Güell, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona más colorida de la ciudad.",
-        "gx_media_links": "https://lh6.googleusercontent.com/-WO_h-UjW3WA/VISXlLVmhuI/AAAAAAAAC7U/hLA-YyuN-Ok/w695-h567-no/img370.jpg"
+        "photo": "https://lh6.googleusercontent.com/-WO_h-UjW3WA/VISXlLVmhuI/AAAAAAAAC7U/hLA-YyuN-Ok/w695-h567-no/img370.jpg"
       }
     },
     {
@@ -787,10 +758,9 @@
       },
       "properties": {
         "name": "Zona de encierro_Túneles del metro",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Túneles del metro L3, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona en que se siente más encerrado.",
-        "gx_media_links": "https://lh3.googleusercontent.com/-Jpa9rwAbMQ0/VISVWrVfNzI/AAAAAAAAC7U/FG386WH_Sjw/w851-h567-no/DSC_0016.jpg"
+        "photo": "https://lh3.googleusercontent.com/-Jpa9rwAbMQ0/VISVWrVfNzI/AAAAAAAAC7U/FG386WH_Sjw/w851-h567-no/DSC_0016.jpg"
       }
     },
     {
@@ -805,10 +775,9 @@
       },
       "properties": {
         "name": "Zona más irritante de la ciudad_Arco del Triunfo",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Arco del Triunfo, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona más irritante de la ciudad.",
-        "gx_media_links": "https://lh5.googleusercontent.com/-QGnyFbioObM/VISVacpkFjI/AAAAAAAAC7U/cmzKPEgPlPw/w853-h567-no/DSC_0015.jpg"
+        "photo": "https://lh5.googleusercontent.com/-QGnyFbioObM/VISVacpkFjI/AAAAAAAAC7U/cmzKPEgPlPw/w853-h567-no/DSC_0015.jpg"
       }
     },
     {
@@ -823,10 +792,9 @@
       },
       "properties": {
         "name": "Zona favorita de la ciudad_Park Güell",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Park Güell, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona favorita de la ciudad.",
-        "gx_media_links": "https://lh4.googleusercontent.com/-QFiJhchE1Fw/VISXrWmEUVI/AAAAAAAAC7U/40QKaVuTjew/w465-h567-no/img373.jpg"
+        "photo": "https://lh4.googleusercontent.com/-QFiJhchE1Fw/VISXrWmEUVI/AAAAAAAAC7U/40QKaVuTjew/w465-h567-no/img373.jpg"
       }
     },
     {
@@ -841,10 +809,10 @@
       },
       "properties": {
         "name": "Zona que recuerda una historia de amor_Zoológico",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "Zoológico, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como el sitio que le recuerda una historia de amor.",
-        "gx_media_links": "https://youtube.com/watch?v=hD6TXolOB20"
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/hD6TXolOB20\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -859,10 +827,10 @@
       },
       "properties": {
         "name": "Zona preferida para pasar el tiempo libre_Parque de la Ciudadela",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Parque de la Ciudadela, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona preferida para pasar el tiempo libre.",
-        "gx_media_links": "https://youtube.com/watch?v=M0FyLD5ZzA8"
+        "description": "Parque de la Ciudadela, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona preferida para pasar el tiempo libre.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/M0FyLD5ZzA8\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -877,10 +845,10 @@
       },
       "properties": {
         "name": "Zona que recuerda una historia de amor_Filmoteca de Catalunya",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Filmoteca de Catalunya, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como el sitio que le recuerda una historia de amor.",
-        "gx_media_links": "https://youtube.com/watch?v=QchXSG8b46M"
+        "description": "Filmoteca de Catalunya, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como el sitio que le recuerda una historia de amor.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/QchXSG8b46M\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -895,10 +863,10 @@
       },
       "properties": {
         "name": "Zona favorita de la ciudad_Barrio Gótico",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Barrio Gótico, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona favorita de la ciudad.",
-        "gx_media_links": "https://youtube.com/watch?v=a9LuTcx5ojE"
+        "description": "Barrio Gótico, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona favorita de la ciudad.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/a9LuTcx5ojE\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -913,10 +881,10 @@
       },
       "properties": {
         "name": "Zona preferida para pasar el tiempo libre_Plaça dels Àngels ",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Plaça dels Àngels, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona preferida para pasar el tiempo libre.",
-        "gx_media_links": "https://youtube.com/watch?v=OVeO0dAruSs"
+        "description": "Plaça dels Àngels, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona preferida para pasar el tiempo libre.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/OVeO0dAruSs\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -931,10 +899,10 @@
       },
       "properties": {
         "name": "Zona más irritante de la ciudad_Plaza Catalunya",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Plaza Catalunya, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona más irritante de la ciudad.",
-        "gx_media_links": "https://youtube.com/watch?v=qf90V9HJxtg"
+        "description": "Plaza Catalunya, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona más irritante de la ciudad.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/qf90V9HJxtg\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -949,10 +917,10 @@
       },
       "properties": {
         "name": "Zona más irritante de la ciudad_Gran Vía de les Corts Catalanes ",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Gran Vía de les Corts Catalanes, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona más irritante de la ciudad.",
-        "gx_media_links": "https://youtube.com/watch?v=hZeOHmyGR08"
+        "description": "Gran Vía de les Corts Catalanes, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona más irritante de la ciudad.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/hZeOHmyGR08\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -967,10 +935,10 @@
       },
       "properties": {
         "name": "Zona más encerrada_Metro L4",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Túneles del metro L 4, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona que produce mayor sensación de encierro en la ciudad.",
-        "gx_media_links": "https://youtube.com/watch?v=SHbI9RSFfn8"
+        "description": "Túneles del metro L 4, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona que produce mayor sensación de encierro en la ciudad.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/SHbI9RSFfn8\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -985,10 +953,10 @@
       },
       "properties": {
         "name": "Zona más encerrada_Las Ramblas",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Las Ramblas, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona que produce mayor sensación de encierro en la ciudad.",
-        "gx_media_links": "https://youtube.com/watch?v=WgH_sytzTlg"
+        "description": "Las Ramblas, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona que produce mayor sensación de encierro en la ciudad.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/WgH_sytzTlg\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -1003,10 +971,10 @@
       },
       "properties": {
         "name": "Zona favorita de la ciudad_Tibidabo",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Tibidabo, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona preferida de la ciudad.",
-        "gx_media_links": "https://youtube.com/watch?v=OUNECJI5csA"
+        "description": "Tibidabo, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona preferida de la ciudad.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/OUNECJI5csA\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -1021,10 +989,10 @@
       },
       "properties": {
         "name": "Zona más encerrada_Las Ramblas",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Las Ramblas, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona que produce mayor sensación de encierro en la ciudad.",
-        "gx_media_links": "https://youtube.com/watch?v=2u410K_3BNM"
+        "description": "Las Ramblas, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona que produce mayor sensación de encierro en la ciudad.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/2u410K_3BNM\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -1039,10 +1007,10 @@
       },
       "properties": {
         "name": "Zona más aromática_Passeig de Sant Joan ",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Passeig de Sant Joan, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona más aromática de la ciudad.",
-        "gx_media_links": "https://youtube.com/watch?v=9Ywr9MBl8Qo"
+        "description": "Passeig de Sant Joan, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona más aromática de la ciudad.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/9Ywr9MBl8Qo\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -1057,10 +1025,10 @@
       },
       "properties": {
         "name": "Zona más aromática_Jardín Botánico",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Jardín Botánico, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona más aromática de la ciudad.",
-        "gx_media_links": "https://youtube.com/watch?v=uopgNNe00Kk"
+        "description": "Jardín Botánico, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona más aromática de la ciudad.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/uopgNNe00Kk\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -1075,10 +1043,10 @@
       },
       "properties": {
         "name": "Zona favorita de la ciudad_Tibidabo ",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "Tibidabo, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona favorita de la ciudad.",
-        "gx_media_links": "https://youtube.com/watch?v=7l5LGS3H5WQ"
+        "description": "Tibidabo, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona favorita de la ciudad.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/7l5LGS3H5WQ\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -1092,11 +1060,11 @@
         ]
       },
       "properties": {
-        "name": "Zona preferida para pasar el tiempo libre_Jardins de Josep Trueta \n",
-        "styleUrl": "#icon-ci-1",
+        "name": "Zona preferida para pasar el tiempo libre_Jardins de Josep Trueta ",
         "styleHash": "-1846bb07",
-        "description": "Jardins de Josep Trueta, Barcelona, España (mayo 2014).\nLugar definido por un participante anónimo como la zona preferida para pasar el tiempo libre.",
-        "gx_media_links": "https://youtube.com/watch?v=r_NFaNrgs4w"
+        "description": "Jardins de Josep Trueta, Barcelona, España (mayo 2014).Lugar definido por un participante anónimo como la zona preferida para pasar el tiempo libre.",
+        "photo": "",
+        "video": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/r_NFaNrgs4w\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     },
     {
@@ -1111,9 +1079,10 @@
       },
       "properties": {
         "name": "Frase escuchada al pasar_1",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "description": "\"No me salían las lágrimas de los nervios que tenía\"."
+        "description": "\"No me salían las lágrimas de los nervios que tenía\".",
+        "video": "",
+        "photo": ""
       }
     },
     {
@@ -1128,7 +1097,6 @@
       },
       "properties": {
         "name": "Frase escuchada al pasar_2",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "\"Nada siginifica: ¡NA-DA!\""
       }
@@ -1145,7 +1113,6 @@
       },
       "properties": {
         "name": "Frase escuchada al pasar_3",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "\"Cuando te pones así debo recordarme por qué te quiero\"."
       }
@@ -1162,7 +1129,6 @@
       },
       "properties": {
         "name": "Frase escuchada al pasar_4",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "\"Ella lo asume como si fuera una mierda de persona, pero el gran problema es su madre\""
       }
@@ -1179,7 +1145,6 @@
       },
       "properties": {
         "name": "Frase escuchada al pasar_5",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "\"¡Catalunya es libre y yo voy a hablar todo lo que se me de la gana!\""
       }
@@ -1196,7 +1161,6 @@
       },
       "properties": {
         "name": "Frase escuchada al pasar_6",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
         "description": "\"...También tienes que ver si quieres ser toda la vida sirvienta, el tiempo se te está pasando\"."
       }
@@ -1213,9 +1177,8 @@
       },
       "properties": {
         "name": "Objeto encontrado en la vía pública_1",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "gx_media_links": "https://lh4.googleusercontent.com/-gb6z65rHKIY/U35H1ChTsZI/AAAAAAAACco/POaQObZhKLM/w424-h636-no/DSC_0007.JPG"
+        "photo": "https://lh4.googleusercontent.com/-gb6z65rHKIY/U35H1ChTsZI/AAAAAAAACco/POaQObZhKLM/w424-h636-no/DSC_0007.JPG"
       }
     },
     {
@@ -1230,9 +1193,8 @@
       },
       "properties": {
         "name": "Objeto encontrado en la vía pública_2",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "gx_media_links": "https://lh4.googleusercontent.com/-jtUJiz7zrDs/U35H4Ueq6UI/AAAAAAAACdc/6wRpz_am6xM/w424-h636-no/DSC_0014.JPG"
+        "photo": "https://lh4.googleusercontent.com/-jtUJiz7zrDs/U35H4Ueq6UI/AAAAAAAACdc/6wRpz_am6xM/w424-h636-no/DSC_0014.JPG"
       }
     },
     {
@@ -1247,9 +1209,8 @@
       },
       "properties": {
         "name": "Objeto encontrado en la vía pública_3",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "gx_media_links": "https://lh5.googleusercontent.com/-xa_KvgJPU3s/U35H2wwBTrI/AAAAAAAACdA/k5-PiHaonQY/w424-h636-no/DSC_0012.JPG"
+        "photo": "https://lh5.googleusercontent.com/-xa_KvgJPU3s/U35H2wwBTrI/AAAAAAAACdA/k5-PiHaonQY/w424-h636-no/DSC_0012.JPG"
       }
     },
     {
@@ -1264,9 +1225,8 @@
       },
       "properties": {
         "name": "Objeto encontrado en la vía pública_4",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "gx_media_links": "https://lh3.googleusercontent.com/-1vwYs8ZbLKc/U35H6uukFgI/AAAAAAAACd0/wGCCiBl0K84/w424-h636-no/DSC_0026.JPG"
+        "photo": "https://lh3.googleusercontent.com/-1vwYs8ZbLKc/U35H6uukFgI/AAAAAAAACd0/wGCCiBl0K84/w424-h636-no/DSC_0026.JPG"
       }
     },
     {
@@ -1281,9 +1241,8 @@
       },
       "properties": {
         "name": "Objeto encontrado en la vía pública_5",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "gx_media_links": "https://lh4.googleusercontent.com/-zwX5sRdAuIg/U35H1K0PupI/AAAAAAAACcw/jaLqDjBw8Iw/w424-h636-no/DSC_0009.JPG"
+        "photo": "https://lh4.googleusercontent.com/-zwX5sRdAuIg/U35H1K0PupI/AAAAAAAACcw/jaLqDjBw8Iw/w424-h636-no/DSC_0009.JPG"
       }
     },
     {
@@ -1298,9 +1257,8 @@
       },
       "properties": {
         "name": "Objeto encontrado en la vía pública_6",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "gx_media_links": "https://lh5.googleusercontent.com/-mIpYcbZ18uY/U35H2Kg0oqI/AAAAAAAACdE/_8bsE0iRquc/w424-h636-no/DSC_0010.JPG"
+        "photo": "https://lh5.googleusercontent.com/-mIpYcbZ18uY/U35H2Kg0oqI/AAAAAAAACdE/_8bsE0iRquc/w424-h636-no/DSC_0010.JPG"
       }
     },
     {
@@ -1315,9 +1273,8 @@
       },
       "properties": {
         "name": "Objeto encontrado en la vía pública_7",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "gx_media_links": "https://lh3.googleusercontent.com/-h7LtYci44ww/U35H2V_JqrI/AAAAAAAACdI/a39mvEJQeNg/w424-h636-no/DSC_0011.JPG"
+        "photo": "https://lh3.googleusercontent.com/-h7LtYci44ww/U35H2V_JqrI/AAAAAAAACdI/a39mvEJQeNg/w424-h636-no/DSC_0011.JPG"
       }
     },
     {
@@ -1332,9 +1289,8 @@
       },
       "properties": {
         "name": "Objeto encontrado en la vía pública_8",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "gx_media_links": "https://lh3.googleusercontent.com/-RWpb2P9-fLQ/U35H1cQ1uGI/AAAAAAAACcs/SgyPWOeUnxk/w424-h636-no/DSC_0008.JPG"
+        "photo": "https://lh3.googleusercontent.com/-RWpb2P9-fLQ/U35H1cQ1uGI/AAAAAAAACcs/SgyPWOeUnxk/w424-h636-no/DSC_0008.JPG"
       }
     },
     {
@@ -1349,9 +1305,8 @@
       },
       "properties": {
         "name": "Objeto encontrado en la vía pública_9",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "gx_media_links": "https://lh6.googleusercontent.com/-xEDxmMHQoPA/U35H3kancoI/AAAAAAAACdU/1U5UobSW-bE/w424-h636-no/DSC_0013.JPG"
+        "photo": "https://lh6.googleusercontent.com/-xEDxmMHQoPA/U35H3kancoI/AAAAAAAACdU/1U5UobSW-bE/w424-h636-no/DSC_0013.JPG"
       }
     },
     {
@@ -1366,9 +1321,8 @@
       },
       "properties": {
         "name": "Objeto encontrado en la vía pública_10",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "gx_media_links": "https://lh5.googleusercontent.com/-_qnI2BNr71Y/U35H46Ft-5I/AAAAAAAACdk/M2d7K6w0p8o/w424-h636-no/DSC_0018.JPG"
+        "photo": "https://lh5.googleusercontent.com/-_qnI2BNr71Y/U35H46Ft-5I/AAAAAAAACdk/M2d7K6w0p8o/w424-h636-no/DSC_0018.JPG"
       }
     },
     {
@@ -1383,9 +1337,8 @@
       },
       "properties": {
         "name": "Objeto encontrado en la vía pública_11",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "gx_media_links": "https://lh4.googleusercontent.com/-IAfgPA9e_BM/U35H6w-0ueI/AAAAAAAACd4/LwOscyaFtHA/w424-h636-no/DSC_0022.JPG"
+        "photo": "https://lh4.googleusercontent.com/-IAfgPA9e_BM/U35H6w-0ueI/AAAAAAAACd4/LwOscyaFtHA/w424-h636-no/DSC_0022.JPG"
       }
     },
     {
@@ -1400,9 +1353,8 @@
       },
       "properties": {
         "name": "Objeto encontrado en la vía pública_12",
-        "styleUrl": "#icon-ci-1",
         "styleHash": "-1846bb07",
-        "gx_media_links": "https://lh6.googleusercontent.com/-9Cg_zmGjXUQ/U35H5TLEIYI/AAAAAAAACdo/BIbaCX2qdWo/w424-h636-no/DSC_0019.JPG"
+        "photo": "https://lh6.googleusercontent.com/-9Cg_zmGjXUQ/U35H5TLEIYI/AAAAAAAACdo/BIbaCX2qdWo/w424-h636-no/DSC_0019.JPG"
       }
     }
   ]
